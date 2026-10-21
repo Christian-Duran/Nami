@@ -46,5 +46,11 @@ const poemas = [
         titulo: " Polvo de estrellas",
         imagen: "imagenes/namiestrella.jpeg",
         contenido: "\n\"Estamos hechos de polvo de estrellas.\" \n\nEso leí un día: \nque una parte de la creación \ndel universo \nreside en cada uno de nosotros. \n\nTengo la teoría, por la luz de tus ojos \ny la chispa de tu voz cuando te expresas, \nde que la estrella de la que te hicieron \nera la más brillante de todas. \n\nQuizá por eso, cuando estoy contigo, \ntodo parece más inmeso, \ncomo si el universo conspirara \npara recordarme \nque en ti habita lo eterno."
+    },
+    {
+        fecha: "20 Octubre 2026",
+        titulo: "El caballero de tu corazón",
+        imagen: "imagenes/namidama.jpeg",
+        contenido: "Si el destino me llamara \na librar mil batallas, \nlas enfrentaría todas por ti. \n\nMi dama, llevaría mi armadura, \nmi espada y mi corazón, \ndispuesto a proteger \nel amor que siento por ti. \n\nPero no quiero conquistar reinos \nni riquezas; \nsolo quiero conquistar tu corazón \ncada día. \n\nQuiero arrodillarme ante ti, \ntomar tu mano y jurarte \nque, mientras mi corazón siga latiendo, \nserás la mujer que mi alma \nelegirá una y otra vez. \n\nMi mayor victoria será \nllamarte mi amor."
     }
 ];
