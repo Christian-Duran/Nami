@@ -52,5 +52,11 @@ const poemas = [
         titulo: "El caballero de tu corazón",
         imagen: "imagenes/namidama.jpeg",
         contenido: "Si el destino me llamara \na librar mil batallas, \nlas enfrentaría todas por ti. \n\nMi dama, llevaría mi armadura, \nmi espada y mi corazón, \ndispuesto a proteger \nel amor que siento por ti. \n\nPero no quiero conquistar reinos \nni riquezas; \nsolo quiero conquistar tu corazón \ncada día. \n\nQuiero arrodillarme ante ti, \ntomar tu mano y jurarte \nque, mientras mi corazón siga latiendo, \nserás la mujer que mi alma \nelegirá una y otra vez. \n\nMi mayor victoria será \nllamarte mi amor."
+    },
+    {
+        fecha: "21 Octubre 2026",
+        titulo: "Donde dejaste mi corazón",
+        imagen: "imagenes/queridanahomi.jpeg",
+        contenido: "Mi queridísima Nahomi: \n\n¡Qué hermosa alma tienes!, \ntan tranquila y, a la vez, tan viva. \n\nHas encendido una llama dentro de mí, \ntan feroz que podría reducir \nciudades a cenizas \ny, a la vez, tan suave \nque puede calentar \nlos rincones más fríos de mi corazón. \n\nTu ausencia me duele \ny anhelo tu caricia \ncon una desesperación \nque ni el tiempo puede suavizar. \n\nNo pasa un día \nsin que tu nombre ronde \npor mis pensamientos. \n\nLa verdad, \nme da miedo haberme vuelto \nirremediablemente obsessionado \ncon el pensamiento de ti. \n\nY, egoístamente, \nrezo para que, en algún rincón \nde tu corazón, \nsientas por mí lo mismo. \n\nOh, mi querida Nahomi, \n¡qué mujer tan extraordinaria eres! \n\nVuelve a mí, \nHe estado esperando \ndonde dejaste mi corazón."
     }
 ];
