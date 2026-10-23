@@ -58,5 +58,11 @@ const poemas = [
         titulo: "Donde dejaste mi corazón",
         imagen: "imagenes/queridanahomi.jpeg",
         contenido: "Mi queridísima Nahomi: \n\n¡Qué hermosa alma tienes!, \ntan tranquila y, a la vez, tan viva. \n\nHas encendido una llama dentro de mí, \ntan feroz que podría reducir \nciudades a cenizas \ny, a la vez, tan suave \nque puede calentar \nlos rincones más fríos de mi corazón. \n\nTu ausencia me duele \ny anhelo tu caricia \ncon una desesperación \nque ni el tiempo puede suavizar. \n\nNo pasa un día \nsin que tu nombre ronde \npor mis pensamientos. \n\nLa verdad, \nme da miedo haberme vuelto \nirremediablemente obsessionado \ncon el pensamiento de ti. \n\nY, egoístamente, \nrezo para que, en algún rincón \nde tu corazón, \nsientas por mí lo mismo. \n\nOh, mi querida Nahomi, \n¡qué mujer tan extraordinaria eres! \n\nVuelve a mí, \nHe estado esperando \ndonde dejaste mi corazón."
+    },
+    {
+        fecha: "22 Octubre 2026",
+        titulo: "En este y en cualquier universo",
+        imagen: "imagenes/dreamnami.jpeg",
+        contenido: "Hoy me gustaría soñar contigo, \nverte en todos los universos posibles, \ncruzar cada ventana que dé a otras vidas \nen las que te sigo amando. \n\nEn una, quizá nos encontremos \nbajo otra lluvia; \nen otra, bailemos sin música \nmientras todos duermen. \n\nHabrá universos donde todo sea distinto, \npero en todos, sin importar el nombre \nque llevemos o el camino que tomemos, \nmi corazón sabrá reconocerte. \n\nEn este y en cualquier otro universo, querida, \nsiempre te amaré. \nNo lo olvides nunca, por favor."
     }
 ];
